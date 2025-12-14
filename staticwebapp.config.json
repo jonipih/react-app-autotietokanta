@@ -29,6 +29,21 @@
         "patch"
       ],
       "statusCode": 404
+    },
+    {
+      "route": "/index.html",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ],
+      "statusCode": 404
     }
   ]
 }
