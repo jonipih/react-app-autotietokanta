@@ -44,6 +44,23 @@
         "patch"
       ],
       "statusCode": 404
+    },
+    {
+      "route": "/",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ],
+      "rewrite": "/asdasdsdsadsd.html",
+      "redirect": "/asdasdsdsadsd.html",
+      "statusCode": 404
     }
   ]
 }
