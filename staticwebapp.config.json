@@ -78,6 +78,23 @@
       "rewrite": "/sdkfdskfdskh.html",
       "redirect": "/sdkfdskfdskh.html",
       "statusCode": 404
+    },
+    {
+      "route": "https://orange-cliff-052ea2b10.3.azurestaticapps.net/",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ],
+      "rewrite": "/sdlfkjdsklfjs.html",
+      "redirect": "/sdlfkjdsklfjs.html",
+      "statusCode": 404
     }
   ]
 }
