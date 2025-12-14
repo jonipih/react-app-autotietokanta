@@ -14,6 +14,21 @@
         "patch"
       ],
       "statusCode": 404
+    },
+    {
+      "route": "https://lemon-river-00e6ff010.3.azurestaticapps.net/",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ],
+      "statusCode": 404
     }
   ]
 }
